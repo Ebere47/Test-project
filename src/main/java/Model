@@ -1,0 +1,95 @@
+//public class Model {
+//    private int age;
+//    String name;  //name by default is null
+//    String email;
+//
+//    public String getName(){  //getter
+//        return this.name;
+//    }
+//
+//    public void setName(String name){  //setter
+//        this.name = name;
+//    }
+//
+//    public static void main(String[] args) {
+//
+//
+//String name = "Eberechi";
+//        System.out.println(name);
+//
+//        int age = 40;
+//        System.out.println(name);
+//        double height = 56;
+//        System.out.println(height);
+//
+//        public class Bankaccount {
+//        private String account name;
+//        private int account Number;
+//        private double balance;
+//
+//            public String getName() {
+//                return name;
+//
+//            public int getAccount() {
+//                return account;
+//            }
+//
+//            public void setAccount(int account) {
+//                this.account = account;
+//            }
+//
+//            public double getBalance() {            System.out.println(Accountbalanace);
+//
+//                    return balance;
+//            }
+//
+//            public void setBalance(double balance) {
+//                this.balance = balance;
+//            }
+//
+//
+//
+//            public class students{
+//            public String brand= "Toyota";
+//            public String model="Camry";
+//                public String getBrand() {
+//                    return brand;
+//                }System.out.println("The vehicle is starting");
+//
+//            }
+//            }
+//
+//            public class students{
+//                public static void main {
+//                    String name
+//
+//
+//
+//
+//                }
+//
+//            }
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//        }
+//
+//    }
+//}
