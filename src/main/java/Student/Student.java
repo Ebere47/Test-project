@@ -1,4 +1,4 @@
-package Student.java;
+package Student;
 
 public class Student {
     Long id;
